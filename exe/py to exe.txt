@@ -1,0 +1,4 @@
+pyinstaller --windowed --onefile (--icon=./iconname.ico) name.py
+pyinstaller --windowed --onefile Goes.py
+
+auto-py-to-exe
